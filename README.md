@@ -1,5 +1,5 @@
 # FunnyNodules
-### FunnyNodules: A Customizable Medical Dataset Tailored for Evaluating Explainable AI. L. Gallée, Y. Xiong, M. Beer, M. Götz (2025)
+### [FunnyNodules: A Customizable Medical Dataset Tailored for Evaluating Explainable AI. L. Gallée, Y. Xiong, M. Beer, M. Götz (2025)](https://arxiv.org/pdf/2511.15481)
 FunnyNodules is a synthetic, vision-based dataset inspired by medical image interpretation. It is designed to support **systematic**, **controlled**, and **model-agnostic evaluation of explainability methods**. The dataset generation framework enables high customizability, scalability, and fine-grained manipulation of factors of variation, making it well suited for benchmarking how different models reason about image features.
 
 The FunnyNodules dataset, employed in the experiments of this study, comprises abstract nodules described by six visual attributes:
